@@ -1,0 +1,8 @@
+# ignore all directories with the name test
+server/node_modules/
+
+# ignores all .md files
+.md
+
+# does not ignore the README.md file
+!README.md
